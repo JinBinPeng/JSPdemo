@@ -23,6 +23,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    两次密码不相同
+    注册失败，请检查你的用户名和密码
   </body>
 </html>
